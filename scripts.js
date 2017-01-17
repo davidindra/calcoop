@@ -1,5 +1,3 @@
-//var formulaLine, table;
-
 $.getScript('js/Cell.js', function () {
     $.getScript('js/Row.js', function () {
         $.getScript('js/Table.js', function () {

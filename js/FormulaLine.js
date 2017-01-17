@@ -1,7 +1,7 @@
 class FormulaLine {
     constructor(input) {
         input.on('keyup', this.keyPressed);
-        this.input = input;
+        this.ref = input;
     }
 
     keyPressed(){
