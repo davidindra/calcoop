@@ -1,3 +1,5 @@
-$.getScript('js/Row.js', function() {
+class Table {
+    constructor(cols, rows, container, formulaLine) {
 
-});
+    }
+}
