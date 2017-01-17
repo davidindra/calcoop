@@ -1,0 +1,28 @@
+body {
+  cursor: default; }
+
+html, body, body * {
+  display: block;
+  vertical-align: middle;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: Arial;
+  font-size: 1em;
+  line-height: 1em; }
+
+body {
+  margin: 1em; }
+
+header {
+  font-size: 2em;
+  text-align: center;
+  height: 2em; }
+
+nav input {
+  width: 100%;
+  height: 1.5em;
+  border: 1px solid #888;
+  font-size: 1.3em; }
+
+/*# sourceMappingURL=styles.css.map */
